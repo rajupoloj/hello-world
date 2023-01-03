@@ -8,6 +8,10 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
 
+    <label for="Name"><b>Enter Description</b></label>
+    <input type="text" placeholder="Enter Description" name="Name" id="Name" required>
+    <br>
+    
     <label for="Name"><b>Enter Hobby</b></label>
     <input type="text" placeholder="Enter Hobby" name="Name" id="Name" required>
     <br>
